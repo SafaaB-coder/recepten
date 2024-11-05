@@ -1,1 +1,1 @@
-Deze repository is een voorbeeld van ee git-repository met recepten.
+Deze repository is een voorbeeld van ee git-repository met recepten. Gemaakt door SafaaB-coder
